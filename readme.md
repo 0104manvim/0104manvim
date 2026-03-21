@@ -20,9 +20,9 @@ I'm deeply passionate about DSA, Contests, Competitive Programming, web developm
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivangi-Sharma06&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0104manvim&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivangi-Sharma06&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0104manvim&theme=radical" alt="GitHub Streak" />
   <br />
 
 ---
