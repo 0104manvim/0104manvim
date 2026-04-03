@@ -30,8 +30,10 @@ I'm deeply passionate about DSA, Contests, Competitive Programming, web developm
 ## 🌐 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/manvi-maheshwari-5798a434a?/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+  <a href="https://www.manvimaheshwari.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-blue?logo=google-chrome&logoColor=white"></a>
   <a href="manvimaheshwari107@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"></a>
   <a href="https://www.instagram.com/m_manvi01/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram"></a>
+  
 </p>
 
 ---
